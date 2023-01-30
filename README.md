@@ -1,2 +1,3 @@
-# projeto_algoritmo.1
-projeto algoritmo/logica (1)
+# projeto_algoritmo.js
+
+Neste arquito, compartilho todos os meus estudos de JavaScript, incluindo exercicíos teóricos e práticos.
